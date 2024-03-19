@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
 [![An image of @rynmasood3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rynmasood3)](https://holopin.io/@rynmasood3)
+
+<br>
+
