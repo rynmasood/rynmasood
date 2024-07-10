@@ -11,14 +11,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=rynmasood" alt=""/>
 🌟
-<h1>
-HacktoberFest Badges
+
+## HacktoberFest Badges
 <a href="https://holopin.io/@rynmasood3">
 <img src="https://holopin.me/rynmasood3">
 
 </a>
 
-</h1>
+
 🌟
 <h1>
   hey there
