@@ -10,7 +10,7 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=rynmasood" alt=""/>
-
+---
 <h1>
 HacktoberFest Badges
 <a href="https://holopin.io/@rynmasood3">
@@ -19,7 +19,7 @@ HacktoberFest Badges
 </a>
 
 </h1>
-
+---
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
