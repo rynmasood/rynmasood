@@ -14,5 +14,9 @@
 
 [![An image of @rynmasood3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rynmasood3)](https://holopin.io/@rynmasood3)
 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <br>
