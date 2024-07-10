@@ -11,8 +11,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=rynmasood" alt=""/>
 
-<div>
+
 [![An image of @rynmasood3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rynmasood3)](https://holopin.io/@rynmasood3)
-</div>
-<>
+
+
 <br>
