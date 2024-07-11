@@ -6,7 +6,7 @@
 ## Connect with me
 
 <div id="badges" align=center>
-  <a href="www.linkedin.com/in/rynmasood">
+  <a href="https://www.linkedin.com/in/rynmasood/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCqWf11XmV3KMmHIabTdrM5A">
@@ -34,7 +34,7 @@
 
 ## About me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<img height="25" src="GIFs/about.gif">A undergrad Computer Science Student with a passion for digital technologies <br>
+<img height="25" src="GIFs/about.gif">An undergrad Computer Science Student with a passion for digital technologies <br>
 <img height="25" src="GIFs/about.gif"> <br>
 <img height="25" src="GIFs/about.gif"> <br>
 <img height="25" src="GIFs/about.gif"> <br>
