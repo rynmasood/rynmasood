@@ -13,17 +13,24 @@
   </a>
 </div>
 
+<<<<<<< HEAD
 <img src="https://komarev.com/ghpvc/?username=rynmasood" alt="username"/>
   
 <h1>
 HacktoberFest Badges
+=======
+<img src="https://komarev.com/ghpvc/?username=rynmasood" alt=""/>
+🌟
+
+## HacktoberFest Badges
+>>>>>>> 8275d3b733dc2a1e0040572b87c43c505c4e1c10
 <a href="https://holopin.io/@rynmasood3">
 <img src="https://holopin.me/rynmasood3">
 
 </a>
 
-</h1>
 
+🌟
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
