@@ -44,8 +44,11 @@
 
 
 ## GitHub Stats 🧑‍💻
+<p align="center"> 
+
 ![Rayyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rynmasood&theme=cobalt&show_icons=true)
 
+</p>
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rynmasood"/></a>
 </p>
