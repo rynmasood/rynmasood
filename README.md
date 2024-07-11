@@ -1,3 +1,7 @@
+
+
+<h1 align="center"> Greetings ! Rayyan Here<img src="wave.gif" width="130"> </h1>
+
 <div id="badges">
   <a href="www.linkedin.com/in/rynmasood">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,8 +13,8 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=rynmasood" alt=""/>
-
+<img src="https://komarev.com/ghpvc/?username=rynmasood" alt="username"/>
+  
 <h1>
 HacktoberFest Badges
 <a href="https://holopin.io/@rynmasood3">
