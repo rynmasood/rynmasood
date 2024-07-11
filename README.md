@@ -19,7 +19,6 @@
 
   </a>
 
-
   <br>
 
   <img src="https://komarev.com/ghpvc/?username=rynmasood" alt=""/>
@@ -39,5 +38,5 @@
 <img height="30" src="https://bit.ly/4cWkjqO"> <br>
 <img height="30" src="https://bit.ly/4cWkjqO"> <br>
 <img height="30" src="https://bit.ly/4cWkjqO"> <br>
-<img height="30" src=""> <br>
+<img height="30" src="https://bit.ly/4cWkjqO"> <br>
 <img height="30" src="https://bit.ly/4cWkjqO"> <br>
